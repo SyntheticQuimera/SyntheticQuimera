@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="display: flex;">
+<div style="display: flex; flex-direction: row;">
   <img height="256" src="https://cdn.midjourney.com/e8f65508-71a2-46fc-92e4-d9f62bfbb08e/grid_0.png" alt="Descripción de la imagen">
   <p>
 My name is Jaime Roschupkin and I am a frontend developer specializing in React.js and React Native. I have a passion for creating visually stunning applications that not only meet the functional requirements but also exceed the expectations of the end-users.

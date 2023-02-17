@@ -21,17 +21,17 @@ In my work, I strive to pay attention to the smallest details in order to create
 In addition to my love for frontend development, I am also interested in using technology and artificial intelligence to extend my abilities and achieve my goals. I believe that technology has the potential to take human capabilities to the next level, and I am always eager to explore new ways to make the most of it.
 
 <p align="center">
-<img align="center" width="44" height="44" src="https://img.icons8.com/color/48/000000/javascript.png"/>  
-<img align="center" width="44" height="44" src="https://img.icons8.com/color/48/000000/typescript.png"/>  
-<img align="center" width="44" height="44" src="https://img.icons8.com/color/48/000000/css3.png"/>  
-<img align="center" width="44" height="44" src="https://img.icons8.com/color/48/000000/html-5.png"/>  
-<img align="center" width="44" height="44" src="https://es.m.wikipedia.org/wiki/Archivo:Tailwind_CSS_Logo.svg"/>  
-<img align="center" width="44" height="44" src="https://img.icons8.com/color/48/000000/react-native.png"/>  
-<img align="center" width="44" height="44" src="https://www.drupal.org/files/styles/grid-3-2x/public/project-images/nextjs-icon-dark-background.png?itok=0YHs2vTR"/>  
-<img align="center" width="44" height="44" src="https://img.icons8.com/color/48/000000/firebase.png"/>  
-<img align="center" width="44" height="44" src="https://www.sanity.io/static/images/logo_rounded_square.png"/>  
-<img align="center" width="44" height="44" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/400px-Figma-logo.svg.png"/>  
-<img align="center" width="44" height="44" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png"/>  
-<img align="center" width="44" height="44" src="https://img.icons8.com/color/48/000000/adobe-illustrator.png"/>  
+<img align="center" width="44" src="https://img.icons8.com/color/48/000000/javascript.png"/>  
+<img align="center" width="44" src="https://img.icons8.com/color/48/000000/typescript.png"/>  
+<img align="center" width="44" src="https://img.icons8.com/color/48/000000/css3.png"/>  
+<img align="center" width="44" src="https://img.icons8.com/color/48/000000/html-5.png"/>  
+<img align="center" width="44" src="https://es.m.wikipedia.org/wiki/Archivo:Tailwind_CSS_Logo.svg"/>  
+<img align="center" width="44" src="https://img.icons8.com/color/48/000000/react-native.png"/>  
+<img align="center" width="44" src="https://www.drupal.org/files/styles/grid-3-2x/public/project-images/nextjs-icon-dark-background.png?itok=0YHs2vTR"/>  
+<img align="center" width="44" src="https://img.icons8.com/color/48/000000/firebase.png"/>  
+<img align="center" width="44" src="https://www.sanity.io/static/images/logo_rounded_square.png"/>  
+<img align="center" width="44" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/400px-Figma-logo.svg.png"/>  
+<img align="center" width="44" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png"/>  
+<img align="center" width="44" src="https://img.icons8.com/color/48/000000/adobe-illustrator.png"/>  
 </p>
 

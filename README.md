@@ -14,17 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="display: flex; flex-direction: row;">
-  <img height="256" src="https://cdn.midjourney.com/e8f65508-71a2-46fc-92e4-d9f62bfbb08e/grid_0.png" alt="Descripción de la imagen">
-  <p>
+ 
+<section>
+<p>
 My name is Jaime Roschupkin and I am a frontend developer specializing in React.js and React Native. I have a passion for creating visually stunning applications that not only meet the functional requirements but also exceed the expectations of the end-users.
 
 In my work, I strive to pay attention to the smallest details in order to create an experience that is both intuitive and visually appealing. I am constantly on the lookout for new tools and techniques to improve the user interface and user experience of my applications.
 
 In addition to my love for frontend development, I am also interested in using technology and artificial intelligence to extend my abilities and achieve my goals. I believe that technology has the potential to take human capabilities to the next level, and I am always eager to explore new ways to make the most of it.
 </p>
-</div>
-
+</section>
+<aside>
+ <img height="256" src="https://cdn.midjourney.com/e8f65508-71a2-46fc-92e4-d9f62bfbb08e/grid_0.png" alt="Descripción de la imagen">
+</aside>
 
 <p align="center">
 <img align="center" height="44" src="https://img.icons8.com/color/48/000000/javascript.png"/>  

@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my GitHub profile! 👋
 
 <!--
 **SyntheticQuimera/SyntheticQuimera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello and welcome to my GitHub profile! My name is [Your Name] and I am a frontend developer specializing in React.js and React Native. I have a passion for creating visually stunning applications that not only meet the functional requirements but also exceed the expectations of the end-users.
+My name is Jaime Roschupkin and I am a frontend developer specializing in React.js and React Native. I have a passion for creating visually stunning applications that not only meet the functional requirements but also exceed the expectations of the end-users.
 
 In my work, I strive to pay attention to the smallest details in order to create an experience that is both intuitive and visually appealing. I am constantly on the lookout for new tools and techniques to improve the user interface and user experience of my applications.
 

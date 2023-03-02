@@ -21,6 +21,8 @@ In my work, I strive to pay attention to the smallest details in order to create
 
 In addition to my love for frontend development, I am also interested in using technology and artificial intelligence to extend my abilities and achieve my goals. I believe that technology has the potential to take human capabilities to the next level, and I am always eager to explore new ways to make the most of it.
 
+My website: https://jaimeroschupkin.vercel.app/ 
+
 <p align="left">
 <img align="center" height="36" src="https://img.icons8.com/color/48/000000/javascript.png"/>  
 <img align="center" height="36" src="https://img.icons8.com/color/48/000000/typescript.png"/>  
